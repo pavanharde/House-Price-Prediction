@@ -6,4 +6,15 @@ i. Which variables are significant in predicting the price of a house, and
 ii. How well those variables describe the price of a house.
 
 
-Made By - Pavan Harde
+## Technologies Used
+- pandas - version 1.4.2
+- numpy - version 1.21.5
+- statsmodel - version 0.13.2
+- sklearn - version 1.0.1
+- matplotlib - version 3.5.1
+- matplotlib-inline - version 0.1.2
+- seaborn - version 0.11.2
+
+## Contact
+Created by [@pavanharde] - feel free to contact me!
+
